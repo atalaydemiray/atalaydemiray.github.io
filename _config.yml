@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:atalay.demiray@yale.edu"
     - label: "Curriculum vitae"
-      icon: "fa-solid fa-id-badge"
+      icon: "fa-solid fa-id-card"
       url: "/assets/files/CV.pdf"
     - label: "Yale Profile"
       icon: "fas fa-fw fa-link"
