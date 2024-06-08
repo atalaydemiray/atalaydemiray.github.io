@@ -1,9 +1,7 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 ---
-
-# About Me
 
 Atalay Demiray, MD, MSc, is a first-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate from Turkiye, he is a prominent advocate of diversity and global health equity.
 
