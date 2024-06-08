@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hello World!
+title:
 email: atalay.demiray@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student in Health Policy and Management at Yale School of Public Health
@@ -60,18 +60,27 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "PhD student in Health Policy and Management at Yale School of Public Health"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:atalay.demiray@yale.edu"
     - label: "Curriculum vitae"
-      icon: "fas fa-fw fa-cv"
+      icon: "fas fa-fw fa-file-pd"
       url: "/assets/files/CV.pdf"
-    - label: "Google Scholars"
-      icon: "/assets/images/googlescholars.png"
-      url: "https://scholar.google.com/citations?user=GOhMDRMAAAAJ&hl=en&oi=ao"
     - label: "Yale Profile"
       icon: "fas fa-fw fa-link"
       url: "https://ysph.yale.edu/profile/atalay-demiray/"
+    - label: "Google Scholars"
+      icon: "https://fontawesome.com/icons/google-scholar?f=brands&s=solid"
+      url: "https://scholar.google.com/citations?user=GOhMDRMAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-5503-5305"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/atalaydemiray"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/atalaydemiray/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AtalayDemiray"
