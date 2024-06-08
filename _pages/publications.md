@@ -7,9 +7,9 @@ Afsar, B., Afsar, R. E., **Demiray, A.**, Altay, S., Korkmaz, H., Yildiz, A., Co
 
 Afsar, B., Afsar, R. E., **Demiray, A.**, Covic, A., & Kanbay, M. (2021). Deciphering nutritional interventions for podocyte structure and function. Pharmacological Research, 172, 105852. [https://doi.org/10.1016/j.phrs.2021.105852](https://doi.org/10.1016/j.phrs.2021.105852)
 
-Copur, S., Demiray, A., Basile, C., & Kanbay, M. (2023). Endocrinological disorders in acute kidney injury: an often overlooked field of clinical research. Journal of Nephrology, 36(3), 885-893. https://doi.org/10.1007/s40620-022-01554-z 
-![image](https://github.com/atalaydemiray/atalaydemiray.github.io/assets/156912720/daabf80f-93fd-4ff8-97e1-2686224305f2)
+Copur, S., **Demiray, A.**, Basile, C., & Kanbay, M. (2023). Endocrinological disorders in acute kidney injury: an often overlooked field of clinical research. Journal of Nephrology, 36(3), 885-893. [https://doi.org/10.1007/s40620-022-01554-z](https://doi.org/10.1007/s40620-022-01554-z)
 
+Copur, S., **Demiray, A.**, Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, 114, 135-137. [https://doi.org/10.1016/j.ejim.2023.04.005](https://doi.org/10.1016/j.ejim.2023.04.005)
 
 Copur, S., **Demiray, A.**, Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, [https://doi.org/10.1016/j.ejim.2023.04.005](https://doi.org/10.1016/j.ejim.2023.04.005)
 
