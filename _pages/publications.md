@@ -3,9 +3,9 @@ permalink: /publications/
 title: "My Publications"
 ---
 
-Afsar, B., Afsar, R. E., ****Demiray, A.****, Altay, S., Korkmaz, H., Yildiz, A., Covic, A., Ortiz, A., & Kanbay, M. (2022). Sodium–glucose cotransporter inhibition in polycystic kidney disease: Fact or fiction. Clinical Kidney Journal, 15(7), 1275-1283. https://doi.org/10.1093/ckj/sfac029
+Afsar, B., Afsar, R. E., **Demiray, A.**, Altay, S., Korkmaz, H., Yildiz, A., Covic, A., Ortiz, A., & Kanbay, M. (2022). Sodium–glucose cotransporter inhibition in polycystic kidney disease: Fact or fiction. Clinical Kidney Journal, 15(7), 1275-1283. https://doi.org/10.1093/ckj/sfac029
 
-Afsar, B., Afsar, R. E., ****Demiray, A.****, Covic, A., & Kanbay, M. (2021). Deciphering nutritional interventions for podocyte structure and function. Pharmacological Research, 172, 105852. https://doi.org/10.1016/j.phrs.2021.105852
+Afsar, B., Afsar, R. E., **Demiray, A.**, Covic, A., & Kanbay, M. (2021). Deciphering nutritional interventions for podocyte structure and function. Pharmacological Research, 172, 105852. https://doi.org/10.1016/j.phrs.2021.105852
 
 Copur, S., **Demiray, A.**, Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, https://doi.org/10.1016/j.ejim.2023.04.005
 
