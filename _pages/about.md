@@ -3,11 +3,13 @@ permalink: /about/
 title: "About Me"
 ---
 
-Atalay Demiray, MD, MSc, is a first-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate from Turkiye, he is a prominent advocate of diversity and global health equity.
+I am a second-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate from Türkiye, I advocate for global health equity. My research focuses on public health modeling to inform healthcare decisions, striving to improve public health outcomes and promote equity.
 
-Atalay earned his Master of Science degree in Health Economics, Policy, and Law from Erasmus University, an endeavor enriched by the Jean Monnet Scholarship. His master's thesis, titled "Regulation of Artificial Intelligence in Medicine: Upholding Public Health," was recognized as the Thesis of the Year in the Netherlands.
-
-Prior to pursuing his master’s degree, he obtained a Doctor of Medicine and a Bachelor of Arts in International Relations from Koc University. With a solid foundation in both medicine and international policy, Atalay is passionately working towards leveraging technological advancements to foster global health equity and improve public health outcomes. His ongoing research at Yale signifies a step further toward melding innovative solutions with pragmatic health policy frameworks.
+🩺 MD⚕️Doctor by Training
+👨🏻‍💻 PhD Student
+🧮 Economist by Passion
+🌍 Politics Buff in Free Time
+📚 Eternal Student for Smarter Health Policies
 
 ## Education & Training
 
