@@ -21,7 +21,6 @@ twitter_username: AtalayDemiray
 github_username: atalaydemiray
 minimal_mistakes_skin: default
 search: true
-classes: wide
 
 # Build settings
 markdown: kramdown
