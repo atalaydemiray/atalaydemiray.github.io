@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "My Publications"
+classes: wide
 ---
 
 Afsar, B., Afsar, R. E., **Demiray, A.**, Altay, S., Korkmaz, H., Yildiz, A., Covic, A., Ortiz, A., & Kanbay, M. (2022). Sodium–glucose cotransporter inhibition in polycystic kidney disease: Fact or fiction. Clinical Kidney Journal, 15(7), 1275-1283. [https://doi.org/10.1093/ckj/sfac029](https://doi.org/10.1093/ckj/sfac029)
