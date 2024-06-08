@@ -63,15 +63,19 @@ author:
     - label: "Curriculum vitae"
       icon: "fas fa-fw fa-link"
       url: "/assets/files/CV.pdf"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AtalayDemiray"
+    - label: "Google Scholars"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=GOhMDRMAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/atalaydemiray"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AtalayDemiray"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/atalaydemiray"
+
 
 footer:
   links:
