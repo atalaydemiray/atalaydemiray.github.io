@@ -19,3 +19,5 @@ tags:
 
 📚 Eternal Student for Smarter Health Policies
 
+Made in Turkiye 🇹🇷 | Master in the Netherlands 🇳🇱 | Live in the USA 🇺🇸
+
