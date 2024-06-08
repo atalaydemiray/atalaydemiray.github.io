@@ -82,7 +82,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/atalaydemiray/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/AtalayDemiray"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -92,7 +92,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
