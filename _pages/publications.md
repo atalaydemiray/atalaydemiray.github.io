@@ -11,8 +11,6 @@ Copur, S., **Demiray, A.**, Basile, C., & Kanbay, M. (2023). Endocrinological di
 
 Copur, S., **Demiray, A.**, Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, 114, 135-137. [https://doi.org/10.1016/j.ejim.2023.04.005](https://doi.org/10.1016/j.ejim.2023.04.005)
 
-Copur, S., **Demiray, A.**, Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, [https://doi.org/10.1016/j.ejim.2023.04.005](https://doi.org/10.1016/j.ejim.2023.04.005)
-
 Copur, S., **Demiray, A.**, & Kanbay, M. (2022). Uric acid in metabolic syndrome: Does uric acid have a definitive role? European Journal of Internal Medicine, [https://doi.org/10.1016/j.ejim.2022.04.022](https://doi.org/10.1016/j.ejim.2022.04.022)
 
 **Demiray, A.**, Afsar, B., Covic, A., Kuwabara, M., Ferro, C. J., Lanaspa, M. A., Johnson, R. J., & Kanbay, M. (2022). The role of uric acid in the acute myocardial infarction: A narrative review. SAGE Publications. [https://doi.org/10.1177/00033197211012546](https://doi.org/10.1177/00033197211012546)
