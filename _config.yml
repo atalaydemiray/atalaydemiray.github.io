@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-cv"
       url: "/assets/files/CV.pdf"
     - label: "Google Scholars"
-      icon: "fab fa-fw fa-googlescholar"
+      icon: "/assets/images/googlescholars.png"
       url: "https://scholar.google.com/citations?user=GOhMDRMAAAAJ&hl=en&oi=ao"
     - label: "Yale Profile"
       icon: "fas fa-fw fa-link"
