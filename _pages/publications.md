@@ -7,6 +7,10 @@ Afsar, B., Afsar, R. E., **Demiray, A.**, Altay, S., Korkmaz, H., Yildiz, A., Co
 
 Afsar, B., Afsar, R. E., **Demiray, A.**, Covic, A., & Kanbay, M. (2021). Deciphering nutritional interventions for podocyte structure and function. Pharmacological Research, 172, 105852. [https://doi.org/10.1016/j.phrs.2021.105852](https://doi.org/10.1016/j.phrs.2021.105852)
 
+Copur, S., Demiray, A., Basile, C., & Kanbay, M. (2023). Endocrinological disorders in acute kidney injury: an often overlooked field of clinical research. Journal of Nephrology, 36(3), 885-893. https://doi.org/10.1007/s40620-022-01554-z 
+![image](https://github.com/atalaydemiray/atalaydemiray.github.io/assets/156912720/daabf80f-93fd-4ff8-97e1-2686224305f2)
+
+
 Copur, S., **Demiray, A.**, Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, [https://doi.org/10.1016/j.ejim.2023.04.005](https://doi.org/10.1016/j.ejim.2023.04.005)
 
 Copur, S., **Demiray, A.**, & Kanbay, M. (2022). Uric acid in metabolic syndrome: Does uric acid have a definitive role? European Journal of Internal Medicine, [https://doi.org/10.1016/j.ejim.2022.04.022](https://doi.org/10.1016/j.ejim.2022.04.022)
@@ -38,3 +42,5 @@ Kanbay, M., **Demiray, A.**, Afsar, B., Covic, A., Tapoi, L., Ureche, C., & Orti
 Kanbay, M., **Demiray, A.**, Afsar, B., Karakus, K. E., Ortiz, A., Hornum, M., Covic, A., Sarafidis, P., & Rossing, P. (2021). Sodium‐glucose cotransporter 2 inhibitors for diabetes mellitus control after kidney transplantation: Review of the current evidence. Nephrology (Carlton, Vic.), 26(12), 1007-1017. [https://doi.org/10.1111/nep.13941](https://doi.org/10.1111/nep.13941)
 
 Kanbay, M., Tapoi, L., Ureche, C., Tanriover, C., Cevik, E., **Demiray, A.**, Afsar, B., Cherney, D. Z. I., & Covic, A. (2022). Effect of sodium–glucose cotransporter 2 inhibitors on hemoglobin and hematocrit levels in type 2 diabetes: A systematic review and meta-analysis. International Urology and Nephrology, 54(4), 827-841. [https://doi.org/10.1007/s11255-021-02943-2](https://doi.org/10.1007/s11255-021-02943-2)
+
+Zavalichi, M. A., Ionescu, G., Arsenescu Georgescu, C. M., Mihaescu, A., Cimpoesu, C. D., Cimpoesu, G., Zavalichi, S. D., Statescu, C., **Demiray, A.**, Kanbay, M., Covic, A., Nistor, I. (2023). The use of extracorporeal membrane oxygenation in COVID-19: a systematic review. Archives of Medical Science. https://doi.org/10.5114/aoms/152022
