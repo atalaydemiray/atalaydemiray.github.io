@@ -1,29 +1,21 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to My Page!"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - blog
+  - Me
 tags:
-  - Jekyll
-  - update
+  - Me
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+⚕️ I am a second-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate from Türkiye, I advocate for global health equity. My research focuses on public health modeling to inform healthcare decisions, striving to improve public health outcomes and promote equity.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+🩺 Medical Doctor by Training
 
-Jekyll also offers powerful support for code snippets:
+👨🏻‍💻 PhD Student
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+🧮 Economist by Passion
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+🌍 Politics Buff in Free Time
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+📚 Eternal Student for Smarter Health Policies
+
