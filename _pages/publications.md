@@ -4,9 +4,13 @@ title: "My Publications"
 ---
 
 Afsar, B., Afsar, R. E., Demiray, A., Altay, S., Korkmaz, H., Yildiz, A., Covic, A., Ortiz, A., & Kanbay, M. (2022). Sodium–glucose cotransporter inhibition in polycystic kidney disease: Fact or fiction. Clinical Kidney Journal, 15(7), 1275-1283. https://doi.org/10.1093/ckj/sfac029
+
 Afsar, B., Afsar, R. E., Demiray, A., Covic, A., & Kanbay, M. (2021). Deciphering nutritional interventions for podocyte structure and function. Pharmacological Research, 172, 105852. https://doi.org/10.1016/j.phrs.2021.105852
+
 Copur, S., Demiray, A., Cherney, D., Tuttle, K., & Kanbay, M. (2023). Tirzepatide decreases systolic and diastolic blood pressure. European Journal of Internal Medicine, https://doi.org/10.1016/j.ejim.2023.04.005
+
 Copur, S., Demiray, A., & Kanbay, M. (2022). Uric acid in metabolic syndrome: Does uric acid have a definitive role? European Journal of Internal Medicine, https://doi.org/10.1016/j.ejim.2022.04.022
+
 Demiray, A., Afsar, B., Covic, A., Kuwabara, M., Ferro, C. J., Lanaspa, M. A., Johnson, R. J., & Kanbay, M. (2022). The role of uric acid in the acute myocardial infarction: A narrative review. SAGE Publications. https://doi.org/10.1177/00033197211012546
 Demiray, A., Kanbay, A., & Kanbay, M. (2022). Long-term effect of COVID-19 infection on hemodialysis patients: Should we follow hemodialysis patients more closely? Clinical Kidney Journal, 15(3), 369-371. https://doi.org/10.1093/ckj/sfab265
 Demiray, A., & Kanbay, M. (2022). The assessment of hypertension in kidney transplant patients: Time to change our approach? Clinical Kidney Journal, 15(1), 1-4. https://doi.org/10.1093/ckj/sfab151
