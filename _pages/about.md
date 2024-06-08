@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
+classes: wide
 ---
 
 ⚕️ I am a second-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate, I advocate for global health equity. My research focuses on public health modeling to inform healthcare decisions, striving to improve public health outcomes and promote equity.
