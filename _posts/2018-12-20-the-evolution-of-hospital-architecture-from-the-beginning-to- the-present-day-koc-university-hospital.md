@@ -44,7 +44,7 @@ After World War II, hospitals and medicine changed drastically. New achievements
 
 </div>
 
-![Asklepion](assets/images/asiu_final_2.jpg)
+{% include figure popup=true image_path="/assets/images/asiu_final_2.jpg" alt="Asklepion" caption="Asklepion" %}
 
 
 ## Koç University Hospital
