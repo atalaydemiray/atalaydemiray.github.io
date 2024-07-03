@@ -12,11 +12,13 @@ tags:
 
 <div style="text-align: justify;">
 
+
 One of the oldest jobs is healing people, saving them from their pain, illnesses, so one of the earliest architectural forms arose as a space for healing people which we call a hospital. Ancient civilization thought that pain, illnesses are due to the bad spirit or punishment of gods, so the healing job was done by religious people or elderly leader in ancient time and this type of healing process did not require any kind of special building. However, some civilizations such as the Greeks and Romans tried to heal people not just via prayer or spiritual power, but also via some herbal syrups and animals. Therefore, the need for special enclosed areas for the healing process appeared. Medicine has changed from century to century and we have evidence-based medicine nowadays. Until this time, medicine has witnessed several theories about illnesses and their cures, and every theory about the healing process comes with its own unique need for space or structural elements which leads to the experimentation of hospital architecture. Therefore, the architecture of a hospital has mainly changed from time to time to meet the requirements of the healing process. "The connection between health and architecture has been long established, with medical and architectural professions both aware of the importance of appropriate building in the mitigation of ill health." (Cameron Logan, 2010) Thus, it can be concluded that hospital architecture is based on its function which arises from the accepted healing process of the era while using the local architectural elements of the era as an example of eclecticism.
 
 </div>
 
 <div style="text-align: justify;">
+
 
 In this paper, I am planning to begin with how the Greek Hospital, Asklepion, arose and how they used the space for medical purposes. Then, I will continue with Ottoman's Hospitals and how the Ottoman Empire applied the healing process and how this influenced the use of space and form of the hospital. I will finish my paper by discussing the architecture of Koç University Hospital as a contemporary example of the hospital in Istanbul.
 
@@ -42,11 +44,8 @@ After World War II, hospitals and medicine changed drastically. New achievements
 
 ![Asklepion](assets/images/asiu_final_2.jpg)
 
-<div style="text-align: justify;">
 
 ## Koç University Hospital
-
-</div>
 
 <div style="text-align: justify;">
 
@@ -66,15 +65,10 @@ The use of light is also a second important aspect of the architecture of KUH. E
 
 </div>
 
-![Koç University Hospital](assets/images/aisu_final_1.jpg)
+<img width="582" alt="Koç University Hospital" src="https://github.com/atalaydemiray/atalaydemiray.github.io/blob/d0abc02918421ffe8b49128bc23a4bd172380c1d/assets/images/aisu_final_1.jpg">
 
-<div style="text-align: justify;">
 
 ## Bibliography
-
-</div>
-
-<div style="text-align: justify;">
 
 - Cameron Logan, J. W. (2010). International Travel as Medical Research: Architecture and the Modern Hospital. Health and History, 12(2), 116-133. doi:10.5401/healthhist.12.2.0116
 
@@ -87,5 +81,3 @@ The use of light is also a second important aspect of the architecture of KUH. E
 - Peters, T., & Adams, A. (2017, March-April). Decoding Modern Hospitals: An Architectural History. Architectural Design, 87(2), 16. doi:10.1002/ad.2148
 
 - Peters, T., & Lyon, C. (2017). Humanist Principles, Sustainable Design and Salutogenics: A New Form of Healthcare Architecture. Architectural Design, 87(2), 56. doi:10.1002/ad.2153
-
-</div>
