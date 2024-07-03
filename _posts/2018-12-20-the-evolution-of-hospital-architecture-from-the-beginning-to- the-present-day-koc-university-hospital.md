@@ -12,17 +12,17 @@ tags:
 
 <div style="text-align: justify;">
 
-
 One of the oldest jobs is healing people, saving them from their pain, illnesses, so one of the earliest architectural forms arose as a space for healing people which we call a hospital. Ancient civilization thought that pain, illnesses are due to the bad spirit or punishment of gods, so the healing job was done by religious people or elderly leader in ancient time and this type of healing process did not require any kind of special building. However, some civilizations such as the Greeks and Romans tried to heal people not just via prayer or spiritual power, but also via some herbal syrups and animals. Therefore, the need for special enclosed areas for the healing process appeared. Medicine has changed from century to century and we have evidence-based medicine nowadays. Until this time, medicine has witnessed several theories about illnesses and their cures, and every theory about the healing process comes with its own unique need for space or structural elements which leads to the experimentation of hospital architecture. Therefore, the architecture of a hospital has mainly changed from time to time to meet the requirements of the healing process. "The connection between health and architecture has been long established, with medical and architectural professions both aware of the importance of appropriate building in the mitigation of ill health." (Cameron Logan, 2010) Thus, it can be concluded that hospital architecture is based on its function which arises from the accepted healing process of the era while using the local architectural elements of the era as an example of eclecticism.
 
 </div>
 
-<div style="text-align: justify;">
 
+<div style="text-align: justify;">
 
 In this paper, I am planning to begin with how the Greek Hospital, Asklepion, arose and how they used the space for medical purposes. Then, I will continue with Ottoman's Hospitals and how the Ottoman Empire applied the healing process and how this influenced the use of space and form of the hospital. I will finish my paper by discussing the architecture of Koç University Hospital as a contemporary example of the hospital in Istanbul.
 
 </div>
+
 
 <div style="text-align: justify;">
 
@@ -30,11 +30,13 @@ Asklepion was one of the first examples of the hospital architectural form in An
 
 </div>
 
+
 <div style="text-align: justify;">
 
 In the Ottoman Era, medicine showed enormous improvement in the healing process of mental diseases which was followed by changes in hospital architecture in the Ottoman Empire. Ottoman doctors tried to cure mentally retarded people via music and water sounds in the hospital. Using music and water sounds are some of the techniques that we are using even today. Because of the change in healing techniques, hospital architecture evolved in a way that it could provide these functions. Therefore, we began to see a more integrated hospital in a way that it integrated both with the sound of the city and nature. While the hospital was evolving, it also used architectural elements from Islamic traditions. For example, the use of fountains in the Darusifa, Ottoman Hospital, is one of the examples of deriving architectural elements from Islamic architecture to use for new functions. In the Ottoman Era, the first hospital was constructed in 1399 and it was called Yildirim Darusifasi. After that, many were constructed on several sides of the Empire and one thing common among them was compartmentalization. (Öztürk & Şaylıgil, 2015) Because Islamic medicine had a great amount of information about eyes and some surgery techniques, Islamic doctors began to operate surgery and use different techniques to heal diseases. Therefore, a need for compartmentalization arose in Ottoman Hospitals, and we can see one of the first examples of functional compartmentalization in the Ottoman period. Compartmentalization is needed because of the need for different functions in a single building with the development of knowledge about medicine. Moreover, training and research were done in these buildings which are called Madrasah. It is fair to say that the Madrasah of the Ottoman Empire is today’s school of medicine, so the idea of using hospital buildings as training and research centers comes from the Madrasah of the Ottomans. (Öztürk & Şaylıgil, 2015) Thus, the compartmentalization of hospital buildings also led to the emergence of new functions such as training and research.
 
 </div>
+
 
 <div style="text-align: justify;">
 
@@ -53,11 +55,13 @@ One of the contemporary examples of hospital architecture in Istanbul is Koç Un
 
 </div>
 
+
 <div style="text-align: justify;">
 
 In this architectural structure, we can observe the compartmentalization which we saw in Darusifa. However, this compartmentalization is not static like in other hospitals or historical examples. I interviewed Birkan Kankatan, one of the architects of Koç University Hospital. As he stated, they as an architectural team tried to create an enclosed space that could serve several different functions, so they used a 9*9 axes system between two columns. It could fit one surgery operation room, or three cars park areas, or two different patient rooms, etc. between two axes. Because of this dynamic compartmentalization, it is predicted that the hospital will not need any expansion or new buildings for new functions in the future; it could change within the current structure. Therefore, it can be said that hospital architecture responds to the evolving medical science. Because science and medicine change significantly from year to year, hospital architecture has begun to gain more dynamic compartmentalization rather than a static one as we saw in the Ottoman period.
 
 </div>
+
 
 <div style="text-align: justify;">
 
