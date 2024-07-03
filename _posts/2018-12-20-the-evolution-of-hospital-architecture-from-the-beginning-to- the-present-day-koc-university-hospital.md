@@ -24,7 +24,7 @@ After World War II, hospitals and medicine changed drastically. New achievements
 
 </div>
 
-![Koç University Hospital](assets/images/aisu_final_1.jpg)
+![Asklepion](https://github.com/atalaydemiray/atalaydemiray.github.io/blob/a38e5221deb4729788ea669ea157a2681110783d/assets/images/asiu_final_2.jpg)
 
 <div style="text-align: justify;">
 
@@ -37,8 +37,7 @@ In this architectural structure, we can observe the compartmentalization which w
 The use of light is also a second important aspect of the architecture of KUH. Even though the use of light in hospital architecture is a common feature after the World Wars, the way that light is used in KUH is extraordinary. The mall-like hospital aims to capture light, but also KUH has one more different element which ensures that light can go into the building even to the basement floor. KUH has two atriums and two inner gardens in it. As the architect stated, they wanted to use basement floors, and they created an inner garden full of glass covering which will ensure the natural light transmission to even basement floors. However, the hospital building is in a factory area which is not suitable for the idea of normalizing hospital architecture. Mr. Kankatan stated that they created a space that does not interact with the outside environment and ventilation is fully automatic and mechanical except for the inner gardens and atriums. Both Asklepion and Darusifa have natural integration within the structure, also natural ventilation in the hospital is seen as a normalizing factor after the World Wars. Thus, most of the new examples of hospitals have natural ventilation. "The local climate allows for natural ventilation in many of the building's interior public spaces, with fresh air delivered through the ends of its ‘branches' and through its vertical atriums." (Peters & Lyon, 2017) However, fresh air cannot distribute into the hospital through the vertical atriums of the KUH due to the location and inappropriate climate. Therefore, it can be concluded that the surrounding environment and climate have great effects on the architecture of the hospital, especially concerning ventilation.
 
 </div>
-
-![Koc University Hospital](https://github.com/atalaydemiray/atalaydemiray.github.io/blob/a38e5221deb4729788ea669ea157a2681110783d/assets/images/asiu_final_2.jpg)
+![Koç University Hospital](https://github.com/atalaydemiray/atalaydemiray.github.io/blob/4bc9bfd057e2519546ba0b291eb9ea1d3df5a8a2/assets/images/aisu_final_1.jpg)
 
 ## Bibliography
 
