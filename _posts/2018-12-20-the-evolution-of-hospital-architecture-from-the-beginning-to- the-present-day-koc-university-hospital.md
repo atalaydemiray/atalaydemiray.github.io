@@ -69,7 +69,7 @@ The use of light is also a second important aspect of the architecture of KUH. E
 
 </div>
 
-<img width="582" alt="Koç University Hospital" src="https://github.com/atalaydemiray/atalaydemiray.github.io/blob/d0abc02918421ffe8b49128bc23a4bd172380c1d/assets/images/aisu_final_1.jpg">
+<img alt="Koç University Hospital" src="https://github.com/atalaydemiray/atalaydemiray.github.io/blob/e129e21d2b888368d19b42c16e83e26ff423b49d/assets/images/aisu_final_1.jpg">
 
 
 ## Bibliography
