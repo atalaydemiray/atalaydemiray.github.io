@@ -64,7 +64,7 @@ tags:
 </div>
 
 
-{% include figure popup=true image_path="/assets/images/asiu_final_1.jpg" alt="Koc University Hospital" caption="Koc University Hospital" %}
+{% include figure popup=true image_path="assets/images/aisu_final_1.jpg" alt="Koc University Hospital" caption="Koc University Hospital" %}
 
 
 ## Bibliography
