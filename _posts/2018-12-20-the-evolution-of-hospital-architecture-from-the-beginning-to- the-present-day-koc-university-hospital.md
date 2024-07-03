@@ -28,7 +28,7 @@ After World War II, hospitals and medicine changed drastically. New achievements
 
 <div style="text-align: justify;">
 
-Koç University Hospital
+## Koç University Hospital
 
 One of the contemporary examples of hospital architecture in Istanbul is Koç University Hospital (KUH) which became operational in September 2014 as a research and training hospital. Its modern look and glass covering appear as a residence or mall-type hospital at first glance, however, it differs from others because this building is not functioning only as a hospital but also as a research and training center which indicates its roots in the Ottoman madrasah. In Istanbul, we have different architectural examples of University Hospitals, however, none of them is a single architectural unit. Other University Hospitals have generally preferred separate buildings and even architectural elements for different functions such as research, clinics, classrooms, etc. One of the greatest achievements which architects and designers of KUH have done is integrating and unifying the different functioning units into one structural building as seen in the figure. They literally melted different functioning and structural elements in the same pot and created this gigantic building "that spans over an area of 220,000 m2 including the school of medicine, the school of nursing, research laboratories, the Advanced Learning Center, and the general hospital." (KUH, 2017)
 
