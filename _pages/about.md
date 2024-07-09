@@ -21,19 +21,19 @@ Made in Turkiye 🇹🇷 | Master in the Netherlands 🇳🇱 | Live in the USA 
 
 # Education & Training
 
-## PhD in Health Policy and Management (Economics Track) at Yale University (2023-still)
+### PhD in Health Policy and Management (Economics Track) at Yale University (2023-still)
 
-## Master of Science in Health Economics, Policy and Law at Erasmus University Rotterdam (2022-2023) 
+### Master of Science in Health Economics, Policy and Law at Erasmus University Rotterdam (2022-2023) 
 
-## Medical Doctor at Koc University (2022) 
+### Medical Doctor at Koc University (2022) 
 
-## Bachelor of Arts in International Relations at Koc University (2020)
+#### Bachelor of Arts in International Relations at Koc University (2020)
 
 # Research Experience
 
-# Teaching Experience
+## Teaching Experience
 
-## Junior Instructor, Yale Summer Enrichment Medical Academy (YSEMA)
+### Junior Instructor, Yale Summer Enrichment Medical Academy (YSEMA)
 **June 1 - July 13, 2024**
 
 - **Course Title:** Introduction to Research
