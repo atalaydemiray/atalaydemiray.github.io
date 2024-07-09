@@ -19,7 +19,7 @@ classes: wide
 Made in Turkiye 🇹🇷 | Master in the Netherlands 🇳🇱 | Live in the USA 🇺🇸
 
 
-## Education & Training
+# Education & Training
 
 PhD in Health Policy and Management (Economics Track) at Yale University (2023-still)
 
@@ -29,11 +29,11 @@ Medical Doctor at Koc University (2022)
 
 Bachelor of Arts in International Relations at Koc University (2020)
 
-## Research Experience
+# Research Experience
 
-## Teaching Experience
+# Teaching Experience
 
-# Junior Instructor, Yale Summer Enrichment Medical Academy (YSEMA)
+## Junior Instructor, Yale Summer Enrichment Medical Academy (YSEMA)
 **June 1 - July 13, 2024**
 
 - **Course Title:** Introduction to Research
@@ -62,6 +62,6 @@ Bachelor of Arts in International Relations at Koc University (2020)
   - Facilitated discussions on the interpretation of research articles using proper research terminology.
 
 
-## Work Experience
+# Work Experience
 
-## Honors and Awards
+# Honors and Awards
