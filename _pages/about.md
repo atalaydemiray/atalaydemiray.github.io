@@ -55,3 +55,15 @@ Made in Turkiye 🇹🇷 | Master in the Netherlands 🇳🇱 | Live in the USA 
 ## Work Experience
 
 ## Honors and Awards
+
+- **Thesis of the Year Award in Health Economics, Policy & Law (2023)**
+- **Fulbright PhD Scholarship Awardee (2023)**
+- **Jean Monnet Scholarship (2022-2023)**
+- **Holland Scholarship (2022-2023)**
+- **Third in Medical School (2022)**
+- **Valedictorian in International Relations (2021)**
+- **TEV Dr. Orhan Birman Honorable Mention for Medical Research (2022)**
+- **Vehbi Koç Scholars Honor Prize (2017, 2018, 2019)**
+- **Honor Certificate & Outstanding Achievement Certificate (2015)**
+- **TÜBİTAK National Biology Olympiad Silver Medal (2014)**
+
