@@ -7,19 +7,17 @@ classes: wide
 ⚕️ I am a second-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate, I advocate for global health equity. My research focuses on public health modeling to inform healthcare decisions, striving to improve public health outcomes and promote equity.
 
 👨🏻‍💻 PhD Student
+
 🩺 Medical Doctor by Training
+
 🧮 Economist by Passion
+
 🌍 Politics Buff in Free Time
+
 📚 Eternal Student for Smarter Health Policies
 
 Made in Turkiye 🇹🇷 | Master in the Netherlands 🇳🇱 | Live in the USA 🇺🇸
 
-## About Me
-⚕️ I am a second-year PhD student in Health Policy and Management at Yale University. As a first-generation college graduate, I advocate for global health equity. My research focuses on public health modeling to inform healthcare decisions, striving to improve public health outcomes and promote equity.
-
-👨🏻‍💻 PhD Student 🩺 Medical Doctor by Training 🧮 Economist by Passion 🌍 Politics Buff in Free Time 📚 Eternal Student for Smarter Health Policies
-
-Made in Turkiye 🇹🇷 Master in the Netherlands 🇳🇱 Live in the USA 🇺🇸
 
 ## Education & Training
 
@@ -43,7 +41,7 @@ Made in Turkiye 🇹🇷 Master in the Netherlands 🇳🇱 Live in the USA 🇺
 
 ## Teaching Experience
 
-### Junior Instructor, Yale Summer Enrichment Medical Academy (YSEMA)
+### Instructor, Yale Summer Enrichment Medical Academy (YSEMA)
 **June 1 - July 13, 2024**
 
 - **Course Title:** Introduction to Research
