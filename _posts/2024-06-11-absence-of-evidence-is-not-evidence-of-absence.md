@@ -1,7 +1,7 @@
 ---
 title: "Kanıtın yokluğu, yokluğun kanıtı değildir; ancak varlığın kanıtı hiç değildir!"
 classes: wide
-date: 2024-07-24
+date: 2025-07-24
 categories:
   - Science Communication
 tags:
