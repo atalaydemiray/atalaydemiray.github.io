@@ -11,9 +11,7 @@ tags:
   - Jeopolitik
 ---
 
-<div style="text-align: justify;">
-
-İnsanoğlu unutur. Aslında bu, insan için bir hayatta kalma refleksidir; hayat acımasızdır ve insanın keşfettiği en iyi ilaç unutmaktır. Bunun sonucunda, toplumların hafızası da zamanla zayıflayabilir. Birey unutunca yoluna daha kolay devam edebilir; fakat toplumlar ancak hatırlayarak var olabilir. Unutan toplumların tarih sahnesinden hızla silinmesinin bir nedeni de budur. Hafızayı tazelemek, salt tarih bilgisi değil; aynı zamanda bir toplumsal muhasebedir.
+İnsanoğlu unutur. Aslında bu, insan için bir hayatta kalma refleksidir; hayat acımasızdır ve insanın keşfettiği en iyi ilaç unutmaktır. Bunun sonucunda toplumların hafızası da zamanla zayıflayabilir. Birey unutunca yoluna daha kolay devam edebilir; fakat toplumlar ancak hatırlayarak var olabilir. Unutan toplumların tarih sahnesinden hızla silinmesinin bir nedeni de budur. Hafızayı tazelemek, salt tarih bilgisi değil; aynı zamanda bir toplumsal muhasebedir.
 
 Türkiye’nin son yüzyıllık güvenlik serüveni, her dönemin kendi gerilimlerini, mecburiyetlerini ve kırılma anlarını içinde barındırıyor. İlk köşe yazımda fikirlerimi paylaşmadan önce bu tarihsel muhasebeyi yapmak ve yazılarım için bir çerçeve çizmek istedim.
 
@@ -21,7 +19,7 @@ Cumhuriyet daha ilk adımında, var olma iradesiyle yürüttüğü Millî Mücad
 
 Kıbrıs’ın gölgesi daha tazeyken Türkiye içeride bambaşka bir döneme girdi. Kıbrıs’ta yabancı güçlerin bozulan denklemleri ardından, Türkiye’nin içeriden baskılanması için yeni girişimler devreye sokuldu. 1970’lerin sonunda ortaya çıkan bölücü terör, 1980 darbesi sonrasında oluşan siyasi iklimin içine yerleştirildi ve devletin en uzun soluklu güvenlik problemine dönüştü. 1990’lı yıllar ise hem terörün hem de devlet içi çekişmelerin en sert yaşandığı dönem olarak hâlâ hafızalardaki tazeliğini koruyor.
 
-İç çekişmeler ve bölücü terörün yarattığı toplumsal-siyasal yük, Türkiye’yi yormayı amaçlayan bir emperyal strateji olarak ilerletildi. Buna rağmen Türkiye, yalnızca kendi sınırlarına kapanmadı; Karabağ’da Azerbaycan’a, Bosna’da Boşnak halkına verdiği destekle hem tarihsel bağlarına hem de bölgesel sorumluluklarına sahip çıktı. Kıbrıs’tan da tek geri adım atmadı.
+İç çekişmeler ve bölücü terörün yarattığı toplumsal-siyasal yük, Türkiye’yi yormayı amaçlayan bir emperyal strateji olarak ilerletildi. Buna rağmen Türkiye yalnızca kendi sınırlarına kapanmadı; Karabağ’da Azerbaycan’a, Bosna’da Boşnak halkına verdiği destekle hem tarihsel bağlarına hem de bölgesel sorumluluklarına sahip çıktı. Kıbrıs’tan da tek geri adım atmadı.
 
 1999’da bölücü örgüt elebaşının yakalanması, terörle mücadelede kritik bir eşikti; fakat terörün tamamen sona ermesini sağlamadı. 2001 ekonomik krizi ve onu takip eden siyasi karmaşanın ortasında, güvenlik bürokrasisi Türkiye tarihinin belki de en zayıf dönemlerinden birine girmişti. Tam da bu dönemde Irak’ın 2003’te uluslararası güçler tarafından işgal edilmesi, zamanlama bakımından tesadüf sayılamayacak kadar dikkat çekiciydi.
 
@@ -48,5 +46,3 @@ Yeni Türkiye Yüzyılı’nı konuşurken, eski yüzyılın birikimi ve başar�
 Toplumsal hafıza zaman zaman zayıflar; fakat coğrafya asla unutmaz. Ve bizim coğrafyamız, bize hatırlatmanın bir yolunu her zaman bulur.
 
 Cumhuriyet’in kuruluşundan bugüne, bu ülkenin güvenliği, bağımsızlığı ve geleceği için canlarını feda eden tüm şehitlerimizi rahmetle anmak, bu tarihsel muhasebenin asli bir parçasıdır. Milletimizin ortak hafızası, onların bıraktığı emanettir. Geçtiğimiz hafta Azerbaycan’dan dönüş yolunda kaybettiğimiz 20 kahramanımız da bu fedakârlık zincirinin son halkasını temsil ediyorlar. Acıları taze, hatıraları ise kalıcıdır. Unutulan hafızayı tazeleyen, unutturmayan coğrafyanın ta kendisidir. Onlara duyduğumuz minnet, bu coğrafyanın bize her gün hatırlattığı hakikatin bir kez daha altını çizer: Varlığımız ancak hatırladıkça, sahip çıktıkça ve bedel ödeyenleri unutturmadıkça anlam kazanır.
-
-</div>
